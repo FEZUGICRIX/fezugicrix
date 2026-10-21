@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Mikhail</h1>
 
-## Full-Stack Engineer (Middle level, 3+ years experience)
+## Full-Stack Engineer
 Designing and building full-stack applications with a strong emphasis on
 clean architecture, scalability and predictable data flows.
 
